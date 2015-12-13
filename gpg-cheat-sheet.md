@@ -207,3 +207,5 @@ Değişiklikleri kaydedip çıkmak için kullanılır.
 ``` quit ```
 
 Değişiklikleri kaydetmeden çıkmak için kullanılır.
+
+Kaynak: http://usrb.in/gpg/
